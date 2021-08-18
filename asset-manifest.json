@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://being-varun.github.io/csb-nne4k/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://being-varun.github.io/csb-nne4k/static/js/main.6a3a4839.chunk.js",
+    "main.js.map": "https://being-varun.github.io/csb-nne4k/static/js/main.6a3a4839.chunk.js.map",
+    "runtime-main.js": "https://being-varun.github.io/csb-nne4k/static/js/runtime-main.9de312bf.js",
+    "runtime-main.js.map": "https://being-varun.github.io/csb-nne4k/static/js/runtime-main.9de312bf.js.map",
+    "static/js/2.afd9b8ba.chunk.js": "https://being-varun.github.io/csb-nne4k/static/js/2.afd9b8ba.chunk.js",
+    "static/js/2.afd9b8ba.chunk.js.map": "https://being-varun.github.io/csb-nne4k/static/js/2.afd9b8ba.chunk.js.map",
+    "index.html": "https://being-varun.github.io/csb-nne4k/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://being-varun.github.io/csb-nne4k/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.afd9b8ba.chunk.js.LICENSE.txt": "https://being-varun.github.io/csb-nne4k/static/js/2.afd9b8ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9de312bf.js",
+    "static/js/2.afd9b8ba.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.6a3a4839.chunk.js"
+  ]
+}

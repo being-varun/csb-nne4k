@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{10:function(t,e,n){"use strict";n.r(e);n(1);var r=n(3),c=n.n(r),i=(n(8),n(0));function s(t){return Object(i.jsx)("ul",{children:t.list1.map((function(t){return Object(i.jsx)("li",{children:t})}))})}var o=document.getElementById("root");c.a.render(Object(i.jsx)(s,{list1:["varun","george","john"]}),o)},8:function(t,e,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.6a3a4839.chunk.js.map
